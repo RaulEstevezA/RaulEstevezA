@@ -79,4 +79,4 @@ I seek to grow as a developer, contribute to innovative projects, and continue l
 
 ### Contact
 
-For professional inquiries: **r.estevezabella@gmail.com**
+For professional inquiries: **contact.raulesteveza@gmail.com**
