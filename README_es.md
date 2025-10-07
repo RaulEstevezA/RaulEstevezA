@@ -76,4 +76,4 @@ Busco crecer como desarrollador, aportar valor en proyectos innovadores y seguir
 
 ### Contacto
 
-Para consultas profesionales: **contact.raulesteveza@gmail.com**
+Para consultas profesionales: 
