@@ -67,3 +67,10 @@ This combination allows me to understand the entire application development cycl
 
 My goal is to consolidate my career in the field of **software and artificial intelligence development**, applying my strong work ethic, discipline, and self-taught learning ability in technological environments that value consistency, continuous improvement, and professional responsibility.  
 I seek to grow as a developer, contribute to innovative projects, and continue learning every day to achieve both technical and personal excellence.
+
+---
+
+### GitHub Activity
+
+| ![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulEstevezA&show_icons=true&ttheme=github_dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulEstevezA&layout=compact&theme=default) |
+| ------------- | ------------- |
