@@ -72,5 +72,5 @@ I seek to grow as a developer, contribute to innovative projects, and continue l
 
 ### GitHub Activity
 
-| ![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulEstevezA&show_icons=true&ttheme=github_dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulEstevezA&layout=compact&theme=default) |
+| ![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulEstevezA&show_icons=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulEstevezA&layout=compact&theme=default) |
 | ------------- | ------------- |

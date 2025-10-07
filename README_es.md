@@ -64,3 +64,10 @@ Esta combinación me permite comprender todo el ciclo de desarrollo de una aplic
 
 Mi propósito es consolidar mi carrera en el ámbito del **desarrollo de software y la inteligencia artificial**, aplicando mi capacidad de trabajo, disciplina y aprendizaje autodidacta en entornos tecnológicos que valoren la constancia, la mejora continua y la responsabilidad profesional.  
 Busco crecer como desarrollador, aportar valor en proyectos innovadores y seguir aprendiendo cada día para alcanzar la excelencia técnica y personal.
+
+---
+
+### Actividad en GitHub
+
+| ![Estadísticas de GitHub de Raúl](https://github-readme-stats.vercel.app/api?username=RaulEstevezA&show_icons=true&theme=default) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulEstevezA&layout=compact&theme=default) |
+| ------------- | ------------- |
