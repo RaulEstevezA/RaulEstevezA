@@ -1,6 +1,6 @@
 # Raúl Estévez
 
-### Desarrollador en formación | Inteligencia Artificial y Desarrollo de Aplicaciones
+### Desarrollador en formación | Back End y Desarrollo de Aplicaciones
 
 ---
 

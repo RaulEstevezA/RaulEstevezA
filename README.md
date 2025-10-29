@@ -1,6 +1,6 @@
 # Raúl Estévez
 
-### Developer in Training | Artificial Intelligence and Software Development
+### Developer in Training | Back End and Software Development
 
 [Versión en Español 🇪🇸](./README_es.md)
 
