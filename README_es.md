@@ -1,54 +1,45 @@
 # Raúl Estévez
 
-### Desarrollador en formación | Back End y Desarrollo de Aplicaciones
+### Desarrollador de Software | Python · Java · Backend
 
 ---
 
-Aunque mi trayectoria profesional comenzó en un ámbito distinto al tecnológico, en los últimos años he orientado todos mis esfuerzos a formarme en programación y desarrollo de software. Esta dedicación constante refleja mi compromiso con un cambio profesional sólido y duradero hacia el ámbito de la programación, con especial interés en la inteligencia artificial.  
-Mi objetivo es realizar una transición completa hacia el desarrollo de software y la inteligencia artificial, campos que representan mi verdadera vocación.
+Aunque mi trayectoria profesional comenzó en un ámbito distinto al tecnológico, en los últimos años he orientado todos mis esfuerzos a la programación y al desarrollo de software. Esta dedicación constante refleja mi compromiso con una transición profesional sólida hacia el sector IT.
 
-Durante este proceso he completado más de veinte cursos certificados, abarcando áreas como **Python, C, Java, Django, bases de datos, inteligencia artificial y aprendizaje automático**.  
+He completado el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) en la Universitat Oberta de Catalunya (UOC), obteniendo una nota final de 9.3 / 10.
 
-Actualmente curso el **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en la **Universitat Oberta de Catalunya (UOC)**, donde compagino los estudios con el desarrollo de proyectos académicos y personales orientados a la práctica profesional.  
-Está previsto que finalice esta formación en **febrero de 2026**.
+También he finalizado CS50’s Introduction to Artificial Intelligence with Python (Harvard University, edX), reforzando mis fundamentos en inteligencia artificial, algoritmos, optimización y aprendizaje automático.
+
+Mi enfoque principal se centra en el desarrollo backend, la arquitectura de software y la aplicación práctica de la inteligencia artificial.
 
 ---
 
 ### En qué estoy trabajando actualmente
 
-- Curso **CS50’s Introduction to Artificial Intelligence with Python**, de Harvard University (edX).
-- Programa **IBM Full Stack Application Development (MicroBachelors, edX)**, centrado en el desarrollo completo de aplicaciones web con **React, Node.js, Express y bases de datos**. Repositorios asociados: 
-  - [expressBookReviews](https://github.com/RaulEstevezA/expressBookReviews).
-  - [e-plantShopping](https://github.com/RaulEstevezA/e-plantShopping).  
-- Asignaturas avanzadas del **DAM**, centradas en:
-  - Programación orientada a objetos con bases de datos.
-  - Técnicas de persistencia de datos con .NET y programas ERP.    
-  - Internet de las cosas (IoT).  
-  - Desarrollo de aplicaciones móviles nativas.  
-  - Diseño y programación de videojuegos en realidad virtual y aumentada (VR/AR).
-- Preparación para la **certificación oficial de inglés C1** y futuras certificaciones en **Swift** y **Flutter**.
+- Ampliación del portfolio con proyectos de backend y software engineering.
+- Programa IBM Full Stack Application Development (edX).
+- Profundización en Python, diseño de sistemas y arquitectura de software.
+- Preparación para la certificación oficial de inglés C1.
 
 ---
 
 ### Trayectoria de aprendizaje
 
-Mi formación se centra principalmente en el **desarrollo backend**, aunque también he trabajado en proyectos **full stack** utilizando **React** y **JavaScript** para la parte del cliente.  
-Esta combinación me permite comprender todo el ciclo de desarrollo de una aplicación, desde la gestión de datos hasta la experiencia de usuario.
+Mi formación combina base académica formal con aprendizaje autodidacta intensivo y desarrollo de proyectos reales.
 
-- Más de **60 créditos superados** en el ciclo formativo DAM, con un rendimiento académico excelente.  
-- Formación complementaria en **inteligencia artificial, ciencia de datos y desarrollo web**, cursada en **Harvard, IBM y otras instituciones a través de edX**.  
-- Participación en proyectos académicos que reproducen entornos reales de empresa, entre ellos:  
-  - **Implantación de dominios Windows y OpenLDAP** con Docker en redes simuladas.  
-  - **Desarrollo de un sistema de gestión comercial en Java** (caso práctico *WoodShops*).  
-  - Creación de repositorios documentados como [HARVARD_IA](https://github.com/RaulEstevezA/HARVARD_IA) (visible próximamente), centrado en inteligencia artificial con Python.
+- Titulación DAM (UOC) con alto rendimiento académico.
+- Especialización práctica en desarrollo backend con Python (Django) y aplicaciones de escritorio en Java (JavaFX).
+- Fundamentos sólidos en inteligencia artificial adquiridos mediante CS50 AI (Harvard, edX).
+- Experiencia en proyectos académicos que simulan entornos reales de empresa.
+
 ---
 
 ### Tecnologías y herramientas
 
-**Lenguajes:** Python, Java, C, SQL, JavaScript  
-**Frameworks y librerías:** Django, Flask, React (básico), .NET (básico), Bootstrap 
-**Bases de datos:** MySQL, SQLite, Oracle  
-**Otras herramientas:** Git, Docker, VirtualBox, VS Code, Unity, Odoo
+**Lenguajes:** Python, Java, SQL, C, JavaScript  
+**Frameworks:** Django, JavaFX, Flask, Bootstrap  
+**Herramientas:** Git, Docker, VS Code, VirtualBox  
+**Otros entornos:** Unity, Odoo
 
 ---
 
@@ -62,15 +53,7 @@ Esta combinación me permite comprender todo el ciclo de desarrollo de una aplic
 
 ### Objetivo profesional
 
-Mi propósito es consolidar mi carrera en el ámbito del **desarrollo de software y la inteligencia artificial**, aplicando mi capacidad de trabajo, disciplina y aprendizaje autodidacta en entornos tecnológicos que valoren la constancia, la mejora continua y la responsabilidad profesional.  
-Busco crecer como desarrollador, aportar valor en proyectos innovadores y seguir aprendiendo cada día para alcanzar la excelencia técnica y personal.
-
----
-
-### Actividad en GitHub
-
-| ![Estadísticas de GitHub de Raúl](https://github-readme-stats.vercel.app/api?username=RaulEstevezA&show_icons=true&theme=default) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulEstevezA&layout=compact&theme=default) |
-| ------------- | ------------- |
+Mi objetivo es continuar desarrollándome como software developer en entornos orientados a backend, participar en proyectos técnicamente exigentes y seguir ampliando mis competencias en Python e inteligencia artificial aplicada.
 
 ---
 
