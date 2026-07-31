@@ -18,10 +18,9 @@ My work is primarily focused on backend development, software architecture, and 
 
 ### GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://streak-stats.demolab.com/?user=RaulEstevezA&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulEstevezA&layout=compact" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=RaulEstevezA&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RaulEstevezA&theme=github_dark_dimmed&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RaulEstevezA&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
