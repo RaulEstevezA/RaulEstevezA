@@ -16,6 +16,15 @@ My work is primarily focused on backend development, software architecture, and 
 
 ---
 
+### GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RaulEstevezA&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulEstevezA&layout=compact" />
+</p>
+
+---
+
 ### What I’m currently working on
 
 - Expanding my portfolio with backend and AI-oriented projects
