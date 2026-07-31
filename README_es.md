@@ -2,44 +2,41 @@
 
 ### Desarrollador de Software | Python · Java · Backend
 
----
-
-Aunque mi trayectoria profesional comenzó en un ámbito distinto al tecnológico, en los últimos años he orientado todos mis esfuerzos a la programación y al desarrollo de software. Esta dedicación constante refleja mi compromiso con una transición profesional sólida hacia el sector IT.
-
-He completado el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) en la Universitat Oberta de Catalunya (UOC), obteniendo una nota final de 9.3 / 10.
-
-También he finalizado CS50’s Introduction to Artificial Intelligence with Python (Harvard University, edX), reforzando mis fundamentos en inteligencia artificial, algoritmos, optimización y aprendizaje automático.
-
-Mi enfoque principal se centra en el desarrollo backend, la arquitectura de software y la aplicación práctica de la inteligencia artificial.
+[English version 🇬🇧](./README.md)
 
 ---
 
-### En qué estoy trabajando actualmente
+Llegué al desarrollo de software desde fuera del sector tech, y lo hice a la manera difícil: formación real, proyectos reales y muchas horas fuera del aula.
 
-- Ampliación del portfolio con proyectos de backend y software engineering.
-- Programa IBM Full Stack Application Development (edX).
-- Profundización en Python, diseño de sistemas y arquitectura de software.
-- Preparación para la certificación oficial de inglés C1.
+Tengo el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) por la Universitat Oberta de Catalunya (UOC), con una nota final de 9.3/10. También completé varios cursos de la serie CS50 de Harvard — CS50x, CS50P, CS50W y CS50 AI — junto con el programa IBM Full Stack Application Development (edX), completando mi base en desarrollo full-stack e IA aplicada.
+
+Ahora mismo me centro en desarrollo backend, arquitectura de software e IA aplicada.
 
 ---
 
-### Trayectoria de aprendizaje
+### En qué estoy trabajando ahora
 
-Mi formación combina base académica formal con aprendizaje autodidacta intensivo y desarrollo de proyectos reales.
-
-- Titulación DAM (UOC) con alto rendimiento académico.
-- Especialización práctica en desarrollo backend con Python (Django) y aplicaciones de escritorio en Java (JavaFX).
-- Fundamentos sólidos en inteligencia artificial adquiridos mediante CS50 AI (Harvard, edX).
-- Experiencia en proyectos académicos que simulan entornos reales de empresa.
+- Ampliando mi portfolio con proyectos de backend e IA
+- Profundizando en Python, diseño de sistemas y arquitectura de software
+- Preparando la certificación oficial de inglés C1
 
 ---
 
 ### Tecnologías y herramientas
 
-**Lenguajes:** Python, Java, SQL, C, JavaScript  
+**Principales:** Python, Java, SQL  
+**Conocimiento de uso:** JavaScript, C  
 **Frameworks:** Django, JavaFX, Flask, Bootstrap  
 **Herramientas:** Git, Docker, VS Code, VirtualBox  
-**Otros entornos:** Unity, Odoo
+**Otros:** Unity, Odoo
+
+---
+
+### GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=RaulEstevezA&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RaulEstevezA&theme=github_dark_dimmed&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RaulEstevezA&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -51,12 +48,6 @@ Mi formación combina base académica formal con aprendizaje autodidacta intensi
 
 ---
 
-### Objetivo profesional
-
-Mi objetivo es continuar desarrollándome como software developer en entornos orientados a backend, participar en proyectos técnicamente exigentes y seguir ampliando mis competencias en Python e inteligencia artificial aplicada.
-
----
-
 ### Contacto
 
-Para consultas profesionales: **contact.raulesteveza@gmail.com**
+Escríbeme a **contact.raulesteveza@gmail.com**
