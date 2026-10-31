@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://raulesteveza.github.io/">Portfolio</a> · <a href="https://raulesteveza.github.io/demos/">Live demos</a> · <a href="https://raulesteveza.github.io/tools/">Tools</a> · <a href="https://raulesteveza.github.io/games/">Games</a> · <a href="https://www.linkedin.com/in/raulesteveza/">LinkedIn</a> · <a href="mailto:contact.raulesteveza@gmail.com">Contact</a>
+  <a href="https://raulesteveza.github.io/">Portfolio</a> · <a href="https://raulesteveza.github.io/demos/">Demos</a> · <a href="https://raulesteveza.github.io/tools/">Tools</a> · <a href="https://raulesteveza.github.io/games/">Games</a> · <a href="https://www.linkedin.com/in/raulesteveza/">LinkedIn</a> · <a href="mailto:contact.raulesteveza@gmail.com">Contact</a>
 </p>
 
 I build backend services, APIs, automation tools and applications that connect systems and turn data into something useful. I care about clear architecture, practical interfaces and software that people can actually run and test.
