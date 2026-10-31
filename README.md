@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://raulesteveza.github.io/">Portfolio</a> · <a href="https://raulesteveza.github.io/demos/">Live demos</a> · <a href="https://www.linkedin.com/in/raulesteveza/">LinkedIn</a> · <a href="mailto:contact.raulesteveza@gmail.com">Contact</a>
+  <a href="https://raulesteveza.github.io/">Portfolio</a> · <a href="https://raulesteveza.github.io/demos/">Live demos</a> · <a href="https://raulesteveza.github.io/tools/">Tools</a> · <a href="https://raulesteveza.github.io/games/">Games</a> · <a href="https://www.linkedin.com/in/raulesteveza/">LinkedIn</a> · <a href="mailto:contact.raulesteveza@gmail.com">Contact</a>
 </p>
 
 I build backend services, APIs, automation tools and applications that connect systems and turn data into something useful. I care about clear architecture, practical interfaces and software that people can actually run and test.
@@ -17,20 +17,6 @@ My main focus is **Python, backend development, REST APIs, data processing and d
 ## Featured projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/RaulEstevezA/DataCleanr">DataCleanr</a></h3>
-      Clean, normalize and deduplicate CSV, Excel, JSON and XML data. Every proposed change can be reviewed before it is applied; files stay on the user's device.<br><br>
-      <strong>Python · PySide6 · React · TypeScript</strong><br>
-      <a href="https://raulesteveza.github.io/tools/DataCleanr/">Try online</a> · <a href="https://github.com/RaulEstevezA/DataCleanr/releases">Desktop releases</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/RaulEstevezA/Api2Class">Api2Class</a></h3>
-      Turn JSON API responses into editable models and generate typed classes for 11 languages, JSON Schema or Smithy. Processing happens locally.<br><br>
-      <strong>Python · PySide6 · React · TypeScript</strong><br>
-      <a href="https://raulesteveza.github.io/tools/Api2Class/">Try online</a> · <a href="https://github.com/RaulEstevezA/Api2Class">Source</a>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RaulEstevezA/Erp_Flutter_Demo">ERP Flutter Integration</a></h3>
@@ -53,13 +39,65 @@ My main focus is **Python, backend development, REST APIs, data processing and d
       <a href="https://raulesteveza.github.io/demos/Duckyware_Store/">Live demo</a> · <a href="https://github.com/RaulEstevezA/Duckyware_Store">Source</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Toolbox in progress</h3>
-      DataCleanr and Api2Class are the first tools in a small family of practical utilities. I am currently developing <a href="https://github.com/RaulEstevezA/Mapper">Mapper</a>, a visual tool for mapping classes, DTOs and data models.<br><br>
-      <strong>Developer tools · Data transformation · Code generation</strong><br>
-      <a href="https://raulesteveza.github.io/tools/">Browse all tools</a>
+      <h3><a href="https://github.com/RaulEstevezA/Cinema_App">Cinema App</a></h3>
+      Flutter app with TMDB integration, Clean Architecture, API-to-domain mapping and local SQLite favorites.<br><br>
+      <strong>Flutter · Dart · REST · SQLite · Clean Architecture</strong><br>
+      <a href="https://raulesteveza.github.io/demos/Cinema_App/">Live demo</a> · <a href="https://github.com/RaulEstevezA/Cinema_App">Source</a>
     </td>
   </tr>
 </table>
+
+## Tools
+
+Privacy-first utilities you can use directly in the browser or download for desktop. Data is processed locally and never leaves your device.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RaulEstevezA/DataCleanr">DataCleanr</a></h3>
+      Clean, normalize and deduplicate CSV, Excel, JSON and XML data. Every proposed change can be reviewed before it is applied.<br><br>
+      <strong>Python · PySide6 · React · TypeScript</strong><br>
+      <a href="https://raulesteveza.github.io/tools/DataCleanr/">Try online</a> · <a href="https://github.com/RaulEstevezA/DataCleanr/releases">Desktop releases</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/RaulEstevezA/Api2Class">Api2Class</a></h3>
+      Turn JSON API responses into editable models and generate typed classes for 11 languages, JSON Schema or Smithy.<br><br>
+      <strong>Python · PySide6 · React · TypeScript</strong><br>
+      <a href="https://raulesteveza.github.io/tools/Api2Class/">Try online</a> · <a href="https://github.com/RaulEstevezA/Api2Class">Source</a>
+    </td>
+  </tr>
+</table>
+
+Coming next: **[Mapper](https://github.com/RaulEstevezA/Mapper)**, a visual tool for mapping classes, DTOs and data models. [Browse all tools →](https://raulesteveza.github.io/tools/)
+
+## Games
+
+Browser games for playing and for learning SQL and REST APIs. No accounts or backend: progress is saved in the browser.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/RaulEstevezA/SQL_Detective">SQL Detective</a></h3>
+      Solve mysteries by querying fictional databases. 15 bilingual cases, from <code>SELECT</code> to joins, CTEs and window functions, running locally on SQLite + WebAssembly.<br><br>
+      <strong>JavaScript · SQLite · sql.js · WebAssembly</strong><br>
+      <a href="https://raulesteveza.github.io/games/SQL_Detective/">Play</a> · <a href="https://github.com/RaulEstevezA/SQL_Detective">Source</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/RaulEstevezA/API_Quest">API Quest</a></h3>
+      Learn REST APIs by building, sending and debugging HTTP requests. 56 bilingual missions across seven chapters, plus a persistent API sandbox.<br><br>
+      <strong>React · TypeScript · Vite</strong><br>
+      <a href="https://raulesteveza.github.io/games/API_Quest/">Play</a> · <a href="https://github.com/RaulEstevezA/API_Quest">Source</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/RaulEstevezA/BlockFall_Python">BlockFall</a></h3>
+      Classic falling-block game built from scratch with Python and Pygame, later compiled to WebAssembly for browser play.<br><br>
+      <strong>Python · Pygame · WebAssembly</strong><br>
+      <a href="https://raulesteveza.github.io/games/BlockFall_Python/">Play</a> · <a href="https://github.com/RaulEstevezA/BlockFall_Python">Source</a>
+    </td>
+  </tr>
+</table>
+
+[Browse all games →](https://raulesteveza.github.io/games/)
 
 ## Technical focus
 
@@ -68,8 +106,6 @@ My main focus is **Python, backend development, REST APIs, data processing and d
 
 ## More work
 
-- **[Cinema App](https://github.com/RaulEstevezA/Cinema_App)** — Flutter app with TMDB integration, Clean Architecture, API-to-domain mapping and local SQLite favorites. [Live demo](https://raulesteveza.github.io/demos/Cinema_App/)
-- **[BlockFall](https://github.com/RaulEstevezA/BlockFall_Python)** — falling-block game built from scratch with Python and Pygame, later compiled to WebAssembly. [Play in the browser](https://raulesteveza.github.io/demos/BlockFall_Python/)
 - **[CS50 AI](https://github.com/RaulEstevezA/harvard_ai)** — implementations from Harvard's CS50 Introduction to Artificial Intelligence with Python.
 
 ## About me
@@ -81,5 +117,6 @@ I have also completed Harvard's CS50, CS50P, CS50W and CS50 AI courses. The cour
 ## Currently
 
 - Building developer and data tools: **DataCleanr, Api2Class and Mapper**
+- Creating educational games for learning SQL and REST APIs
 - Working on backend services, APIs, automation and applied AI
 - Studying Computer Engineering at the **UOC**
